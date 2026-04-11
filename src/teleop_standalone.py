@@ -11,7 +11,7 @@ from feetech_driver import FeetechDriver
 
 # --- Configuration Constants ---
 DEFAULT_LEADER_PORT = "COM3"
-DEFAULT_FOLLOWER_PORT = "COM5"
+DEFAULT_FOLLOWER_PORT = "COM4"
 DEFAULT_LEADER_CALIB = "../config/leader_calib.json"
 DEFAULT_FOLLOWER_CALIB = "../config/follower_calib.json"
 DEFAULT_IDS = "1,2,3,4,5,6"
